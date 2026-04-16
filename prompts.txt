@@ -66,3 +66,22 @@ Debes agregar nuevas secciones
 
 
 -evaluación del resultado:util
+
+
+#etapa 4:
+
+-prompt:Asume el rol de asume el rol de un programar senior experto en UX/UI.
+
+-El sitio tambien será visualizado desde celulares.
+
+Debes:
+
+•se debe adaptar el diseño a pantallas pequeñas(telefonos moviles),
+
+•asegurar buena legibilidad,
+
+•evitar problemas de distribución o superposición.
+
+-propósito:Mejoras para adaptacion a distintos dispositivos
+
+-evaluación del resultado:util
