@@ -1,0 +1,68 @@
+#etapa 1:
+
+-prompt:asume el rol de un programar senior experto en UX/UI.
+
+se necesita crear una pagina web con las siguientes caracteristicas:
+
+- necesita lanzar al mercado un nuevo producto tecnológico y requiere una página web para presentarlo de manera atractiva.
+-una consola de videojuegos(SEGA)
+-El sitio debe estar orientado a mostrar el producto, destacar sus características y generar interés. Se espera una presentación clara, visualmente atractiva y organizada.
+-empecemos con:
+•nombre del producto,
+
+•breve descripción,
+
+•una estructura básica del sitio,
+
+•una sección destacada para presentacion del producto
+
+
+-propósito:Primer diseño de landing page
+
+
+-evaluación del resultado:util
+
+-iteraccion:corregir paleta de colores
+
+#etapa 2:
+
+-prompt:-Haz un sutil mejora visual, para una
+mejor presentación.
+
+Debes:
+
+•mejorar el diseño visual,
+
+•aplicar estilos más trabajados,
+
+•mejorar la distribución del contenido,
+
+•lograr una apariencia moderna.
+
+
+-propósito: Mejoramiento puntuales
+
+
+-evaluación del resultado:util
+
+#etapa 3:
+
+-prompt:Asume el rol de asume el rol de un programar senior experto en UX/UI.
+
+El producto necesita ser mejor explicado al usuario.
+
+Debes agregar nuevas secciones
+
+•características principales,
+
+•beneficios del producto,
+
+•especificaciones técnicas,
+
+•posibles usos o ventajas frente a otros productos.
+
+
+-propósito: Incorporacion de contenido
+
+
+-evaluación del resultado:util
