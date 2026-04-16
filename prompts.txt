@@ -85,3 +85,19 @@ Debes:
 -propósito:Mejoras para adaptacion a distintos dispositivos
 
 -evaluación del resultado:util
+
+#etapa 5:
+
+-prompt:Asume el rol de asume el rol de un programar senior experto en UX/UI.
+
+Debes incorporar una sección tipo ficha de producto o comparativa, que incluya:
+
+•características organizadas (por ejemplo: tabla o listado),
+
+•al menos 2–3 atributos técnicos relevantes,
+
+•una presentación clara y ordenada de la información.
+
+-propósito:Incorporacion de detalles comparativos
+
+-evaluación del resultado:util
